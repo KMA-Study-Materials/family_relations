@@ -44,7 +44,7 @@ The project consists of the following source files:
 
 ## References and Sources
 
-* [](https://github.com/Lifencev/Family-relationships)
-* [](https://www.youtube.com/watch?v=-9CyZnb_pNY)
-* [](https://www.youtube.com/watch?v=OQn-jj72wbY)
-* [](https://www.youtube.com/watch?v=r1CVJbr5GDg)
+* [Lifencev's repo](https://github.com/Lifencev/Family-relationships)
+* [video from SunSay, Сенсей, Sensei channel (34m)](https://www.youtube.com/watch?v=-9CyZnb_pNY)
+* [video from SunSay, Сенсей, Sensei channel (7m)](https://www.youtube.com/watch?v=OQn-jj72wbY)
+* [video from SunSay, Сенсей, Sensei channel (16m)](https://www.youtube.com/watch?v=r1CVJbr5GDg)
